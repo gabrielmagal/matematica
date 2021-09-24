@@ -1,6 +1,6 @@
 # Utilização de curvas de nível
 
-<h1>Utilizadas para medir proporcionalmente 1 ou mais grandezas</h1>
+Utilizadas para medir proporcionalmente 1 ou mais grandezas
 
 # Funções de variáveis
 
