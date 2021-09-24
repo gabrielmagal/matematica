@@ -2,6 +2,6 @@
 
 Utilizadas para medir proporcionalmente 1 ou mais grandezas
 
-@@ Funções de variáveis @@
+# Funções de variáveis
 
-@@ Imagem da função@@
+# Imagem da função
