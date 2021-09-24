@@ -1,3 +1,3 @@
 # matematica-basica
 
-##Funções de variáveis##
+# Funções de variáveis
