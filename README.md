@@ -1,14 +1,9 @@
-! Utilização de curvas de nível
-
-
-+ Green
-- Red
-! Orange
-@@ Pink @@
-# Gray
-
+```diff
+@@ Utilização de curvas de nível @@
 Utilizadas para medir proporcionalmente 1 ou mais grandezas
 
-# ``` Funções de variáveis ```
+@@ Funções de variáveis @@
 
-# ``` Imagem da função ```
+@@ Imagem da função@@
+
+```
