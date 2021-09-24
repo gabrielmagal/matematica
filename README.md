@@ -1,6 +1,12 @@
 ! Utilização de curvas de nível
 
-<h3 style="color:#ff0000">Danger</h3>
+```diff
++ Green
+- Red
+! Orange
+@@ Pink @@
+# Gray
+...
 
 Utilizadas para medir proporcionalmente 1 ou mais grandezas
 
