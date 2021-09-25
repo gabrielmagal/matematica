@@ -12,7 +12,7 @@ Muitas funções dependem de mais de uma variável independente.
 
 `Exemplo:`
 
-> O volume de um cilindro circular reto depende do seu raio e de sua altura. A temperatura de um ponto da superfície da terra depende da sua latitude e da sua longitude.
+O volume de um cilindro circular reto depende do seu raio e de sua altura. A temperatura de um ponto da superfície da terra depende da sua latitude e da sua longitude.
 
 `Exemplo2:`
 
@@ -31,11 +31,7 @@ Calcular o valor da função f no ponto (3,0,4).
 f(x,y,z) -> f(3,0,4) -> √(3)²+(0)²+(4)² = √25 = 5
 
 # **Domínio e Imagem**
-
-Ao definir função de mais de uma variável, excluem-se as entradas que levem a números
-complexos ou à divisão por zero. Considera-se o domínio das funções os maiores conjuntos, para
-os quais as regras de definição geram números reais, exceto quando esse domínio seja especificado
-de forma explícita. A imagem é o conjunto de valores de saída para a variável dependente.
+> Ao definir função de mais de uma variável, excluem-se as entradas que levem a números complexos ou à divisão por zero. Considera-se o domínio das funções os maiores conjuntos, para os quais as regras de definição geram números reais, exceto quando esse domínio seja especificado de forma explícita. A imagem é o conjunto de valores de saída para a variável dependente.
 
 ### **`Função e duas variáveis:`**
 
@@ -45,8 +41,7 @@ Domínio: Observe que, dentro da raiz, o número terá que ser positivo uma vez 
 
 `w = √1-(2)² = √-3`
 
-Não existe raiz quadrada de número negativo; portanto, esses valores não fazem parte do
-domínio da função. Podemos escrever que o domínio de w é dado por:
+> Não existe raiz quadrada de número negativo; portanto, esses valores não fazem parte do domínio da função. Podemos escrever que o domínio de w é dado por:
 
 Domínio: `y ≥ 0`
 
@@ -68,4 +63,4 @@ Domínio = (x,y,z)≠0
 
 Imagem = Qualquer número real
 
-`Uma superfície de nível (ou conjunto de nível) de uma função de três variáveis (x,y,z) é uma superfície da forma f(x,y,z)=c, em que c é uma constante. A função f pode ser representada pela família de superfícies de nível obtida permitindo que c varie.`
+> Uma superfície de nível (ou conjunto de nível) de uma função de três variáveis (x,y,z) é uma superfície da forma f(x,y,z)=c, em que c é uma constante. A função f pode ser representada pela família de superfícies de nível obtida permitindo que c varie.
