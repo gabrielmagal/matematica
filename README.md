@@ -8,8 +8,9 @@ O objetivo dessa unidade será assimilar o conceito matemático de função de d
 variáveis. Ao se estudar um fenômeno do mundo real, deparamos, normalmente, com situações
 em que uma quantidade depende de duas ou mais variáveis independentes. É preciso, então,
 ampliar a ideia básica do cálculo de funções de uma variável para funções de várias variáveis.
-Muitas funções dependem de mais de uma variável independente:
-Exemplo:
+Muitas funções dependem de mais de uma variável independente.
+
+```Exemplo:```
 O volume de um cilindro circular reto depende do seu raio e de sua altura.
 A temperatura de um ponto da superfície da terra depende da sua latitude e da sua longitude.
 
