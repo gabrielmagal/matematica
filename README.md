@@ -2,7 +2,7 @@
 
 Utilizadas para medir proporcionalmente 1 ou mais grandezas
 
-# Funções de variáveis
+# **Funções de variáveis**
 
 O objetivo dessa unidade será assimilar o conceito matemático de função de duas ou mais
 variáveis. Ao se estudar um fenômeno do mundo real, deparamos, normalmente, com situações
@@ -31,14 +31,14 @@ Calcular o valor da função f no ponto (3,0,4).
 
 f(x,y,z) -> f(3,0,4) -> √(3)²+(0)²+(4)² = √25 = 5
 
-# Domínio e Imagem
+# **Domínio e Imagem**
 
 Ao definir função de mais de uma variável, excluem-se as entradas que levem a números
 complexos ou à divisão por zero. Considera-se o domínio das funções os maiores conjuntos, para
 os quais as regras de definição geram números reais, exceto quando esse domínio seja especificado
 de forma explícita. A imagem é o conjunto de valores de saída para a variável dependente.
 
-### `Função e duas variáveis:`
+### **`Função e duas variáveis:`**
 
 ![image](https://user-images.githubusercontent.com/41032795/134772643-eeaa26fb-1f81-482f-9c43-ecc955a54d84.png)
 
@@ -59,7 +59,7 @@ o número zero.
 Imagem = `[0,∞)`
 
 
-### `Função de três variáveis:`
+### **`Função de três variáveis:`**
 
 ![image](https://cdn.discordapp.com/attachments/891308836810539071/891308877268799548/Screenshot_1.png)
 
