@@ -20,6 +20,7 @@ em D é uma regra que associa um único número real w=f( 1 2 , n xx x … ) a c
 conjunto D é o domínio de f, e a imagem é o conjunto dos valores de w assumidos por f
 
 ```Exemplo3:```
+
 Calcular o valor da função f no ponto (3,0,4).
 f(x,y,z) -> f(3,0,4) -> √(3)²+(0)²+(4)² = √25 = 5
 
