@@ -13,9 +13,9 @@ Exemplo:
 O volume de um cilindro circular reto depende do seu raio e de sua altura.
 A temperatura de um ponto da superfície da terra depende da sua latitude e da sua longitude.
 
-```Exemplo2:
+```diff Exemplo2:```
 Sendo D um conjunto de n-uplos ordenados de números reais ( 1 2 , n xx x … ). Uma função de f
 em D é uma regra que associa um único número real w=f( 1 2 , n xx x … ) a cada elemento em D. O
-conjunto D é o domínio de f, e a imagem é o conjunto dos valores de w assumidos por f```
+conjunto D é o domínio de f, e a imagem é o conjunto dos valores de w assumidos por f
 
 # Imagem da função
