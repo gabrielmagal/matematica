@@ -64,4 +64,4 @@ Função de três variáveis:
 
 A restrição que se tem agora é que x, y e z têm de ser diferentes de zero.
 
-Domínio = (x,y,z)≠0.
+![image](https://user-images.githubusercontent.com/41032795/134772714-e3b5babe-e830-42f8-ab29-852d59358728.png)
