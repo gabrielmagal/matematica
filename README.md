@@ -23,7 +23,7 @@ conjunto D é o domínio de f, e a imagem é o conjunto dos valores de w assumid
 
 ```Exemplo3:```
 
-Calcular o valor da função f no ponto (3,0,4).
+Calcular o valor da função f no ponto (3,0,4). form: √x²+y²+z²
 
 f(x,y,z) -> f(3,0,4) -> √(3)²+(0)²+(4)² = √25 = 5
 
