@@ -68,6 +68,6 @@ Domínio = (x,y,z)≠0
 
 Imagem = Qualquer número real
 
-```Uma superfície de nível (ou conjunto de nível) de uma função de três variáveis (x,y,z) é uma superfície
+`` `Uma superfície de nível (ou conjunto de nível) de uma função de três variáveis (x,y,z) é uma superfície
 da forma f(x,y,z)=c, em que c é uma constante. A função f pode ser representada pela família de
-superfícies de nível obtida permitindo que c varie.```
+superfícies de nível obtida permitindo que c varie. ```
