@@ -43,7 +43,7 @@ Domínio: Observe que, dentro da raiz, o número terá que ser positivo uma vez 
 
 _`w = √1-(2)² = √-3`_
 
-> Não existe raiz quadrada de número negativo; portanto, esses valores não fazem parte do domínio da função. Podemos escrever que o domínio de w é dado por:
+> **_Não existe raiz quadrada de número negativo; portanto, esses valores não fazem parte do domínio da função. Podemos escrever que o domínio de w é dado por:_**
 
 Domínio: _`y ≥ 0`_
 
