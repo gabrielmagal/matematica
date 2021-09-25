@@ -27,4 +27,9 @@ Calcular o valor da função f no ponto (3,0,4). ```form: √x²+y²+z²```
 
 f(x,y,z) -> f(3,0,4) -> √(3)²+(0)²+(4)² = √25 = 5
 
-# Imagem da função
+# Domínio e Imagem
+
+Ao definir função de mais de uma variável, excluem-se as entradas que levem a números
+complexos ou à divisão por zero. Considera-se o domínio das funções os maiores conjuntos, para
+os quais as regras de definição geram números reais, exceto quando esse domínio seja especificado
+de forma explícita. A imagem é o conjunto de valores de saída para a variável dependente.
