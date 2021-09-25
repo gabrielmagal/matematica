@@ -56,4 +56,4 @@ Imagem = ```[0,∞)```
 
 Função de três variáveis:
 ![Screenshot](https://imgur.com/NzfN5om)
-![alt text](https://imgur.com/NzfN5om)
+[img]https://i.imgur.com/NzfN5om.png[/img]
