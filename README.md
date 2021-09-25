@@ -61,3 +61,6 @@ Imagem = ```[0,∞)```
 Função de três variáveis:
 
 ![image](https://cdn.discordapp.com/attachments/891308836810539071/891308877268799548/Screenshot_1.png)
+
+A restrição que se tem agora é que x, y e z têm de ser diferentes de zero.
+Domínio = (x,y,z)≠0.
