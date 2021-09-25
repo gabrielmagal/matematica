@@ -55,4 +55,5 @@ o número zero.
 Imagem = ```[0,∞)```
 
 Função de três variáveis:
+
 ![Screenshot](https://cdn.discordapp.com/attachments/891308836810539071/891308877268799548/Screenshot_1.png)
