@@ -38,7 +38,7 @@ complexos ou à divisão por zero. Considera-se o domínio das funções os maio
 os quais as regras de definição geram números reais, exceto quando esse domínio seja especificado
 de forma explícita. A imagem é o conjunto de valores de saída para a variável dependente.
 
-### Função e duas variáveis:
+## Função e duas variáveis:
 
 ![image](https://user-images.githubusercontent.com/41032795/134772643-eeaa26fb-1f81-482f-9c43-ecc955a54d84.png)
 
@@ -59,7 +59,7 @@ o número zero.
 Imagem = ```[0,∞)```
 
 
-### Função de três variáveis:
+## Função de três variáveis:
 
 ![image](https://cdn.discordapp.com/attachments/891308836810539071/891308877268799548/Screenshot_1.png)
 
