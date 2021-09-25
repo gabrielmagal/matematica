@@ -49,7 +49,7 @@ Domínio: Observe que, dentro da raiz, o número terá que ser positivo uma vez 
 Não existe raiz quadrada de número negativo; portanto, esses valores não fazem parte do
 domínio da função. Podemos escrever que o domínio de w é dado por:
 
-Domínio: ```y ≥ 0```
+Domínio: `y ≥ 0`
 
 ```E com relação à imagem?```
 
@@ -59,7 +59,7 @@ o número zero.
 Imagem = ```[0,∞)```
 
 
-### Função de três variáveis:
+### ```Função de três variáveis:```
 
 ![image](https://cdn.discordapp.com/attachments/891308836810539071/891308877268799548/Screenshot_1.png)
 
