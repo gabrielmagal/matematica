@@ -56,4 +56,4 @@ Imagem = ```[0,∞)```
 
 Função de três variáveis:
 ![Screenshot](https://imgur.com/NzfN5om)
-[img]https://i.imgur.com/NzfN5om.png[/img]
+<blockquote class="imgur-embed-pub" lang="en" data-id="NzfN5om"><a href="https://imgur.com/NzfN5om">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
