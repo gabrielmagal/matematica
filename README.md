@@ -19,4 +19,13 @@ Sendo D um conjunto de n-uplos ordenados de números reais ( 1 2 , n xx x … ).
 em D é uma regra que associa um único número real w=f( 1 2 , n xx x … ) a cada elemento em D. O
 conjunto D é o domínio de f, e a imagem é o conjunto dos valores de w assumidos por f
 
+Exemplo:
+Calcular o valor da função f no ponto (3,0,4).
+= ++
+= ++ = =
+222
+22 2
+f(x,y,z) x y z
+f(3,0,4) -> √(3)²+(0)²+(4)² = √25 = 5
+
 # Imagem da função
