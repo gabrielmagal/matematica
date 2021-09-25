@@ -72,3 +72,24 @@ Imagem = Qualquer número real
 
 
 ## **_`Exercicíos - Funções de várias variáveis:`_**
+
+1 - Qual é o valor da função g(x,y,z) = x² + 3y - √z no ponto P(2,3,1)?
+A - 10
+B - 12
+C - 8
+D - 11
+E - 7
+
+<!--ts-->
+   * [Sobre](#Sobre)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Instalação](#instalacao)
+   * [Como usar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+   * [Tests](#testes)
+   * [Tecnologias](#tecnologias)
+<!--te-->
