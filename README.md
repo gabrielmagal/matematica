@@ -87,4 +87,13 @@ Imagem = Qualquer número real
       *  C -> 2
       *  D -> 3
       *  E -> 4
+
+  * 3 - A tabela abaixo é a representação numérica da função C = 40d + 0,15k, sendo que C é o custo do aluguel de um carro, d é o número de dias e k o número de quilômetros rodados. Analise a tabela e assinale a alternativa que contenha o custo de um aluguel por 4 dias para quem tenha rodado 300 quilômetros:
+      *  A -> 0
+      *  B -> 1
+      *  C -> 2
+      *  D -> 3
+      *  E -> 4
 <!--te-->
+
+
