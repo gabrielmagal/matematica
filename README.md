@@ -72,11 +72,6 @@ Imagem = Qualquer número real
 
 
 ## **_`Exercicíos - Funções de várias variáveis:`_**
-
-- 1 - Qual é o valor da função g(x,y,z) = x² + 3y - √z no ponto P(2,3,1)?
-
-Alternativas: A -> 10 | B -> 12 | C -> 8 | D -> 11 | E -> 7
-
 <!--ts-->
    * 1 - Qual é o valor da função g(x,y,z) = x² + 3y - √z no ponto P(2,3,1)?
       *  A -> 10 
@@ -84,4 +79,12 @@ Alternativas: A -> 10 | B -> 12 | C -> 8 | D -> 11 | E -> 7
       *  C -> 8
       *  D -> 11
       *  E -> 7
+
+
+  * 2 - Qual é a imagem da função w=2x-y³+(z/4) para w(0,0,4)?
+      *  A -> 0
+      *  B -> 1
+      *  C -> 2
+      *  D -> 3
+      *  E -> 4
 <!--te-->
