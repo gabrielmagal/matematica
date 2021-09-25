@@ -14,46 +14,46 @@ _`Exemplo:`_
 
 O volume de um cilindro circular reto depende do seu raio e de sua altura. A temperatura de um ponto da superfície da terra depende da sua latitude e da sua longitude.
 
-`Exemplo2:`
+_`Exemplo2:`_
 
 Sendo D um conjunto de n-uplos ordenados de números reais ( 1 2 , n xx x … ). Uma função de f
 em D é uma regra que associa um único número real w=f( 1 2 , n xx x … ) a cada elemento em D. O
 conjunto D é o domínio de f, e a imagem é o conjunto dos valores de w assumidos por f
 
-`Exemplo3:`
+_`Exemplo3:`_
 
 Calcular o valor da função f no ponto (3,0,4). 
 
-`formula:`
+_`formula:`_
 
 ![image](https://user-images.githubusercontent.com/41032795/134772569-7b1150b2-b605-4fef-9900-6391d85985b0.png)
 
 f(x,y,z) -> f(3,0,4) -> √(3)²+(0)²+(4)² = √25 = 5
 
-# **Domínio e Imagem**
+# **_Domínio e Imagem_**
 > Ao definir função de mais de uma variável, excluem-se as entradas que levem a números complexos ou à divisão por zero. Considera-se o domínio das funções os maiores conjuntos, para os quais as regras de definição geram números reais, exceto quando esse domínio seja especificado de forma explícita. A imagem é o conjunto de valores de saída para a variável dependente.
 
-### **`Função e duas variáveis:`**
+### **_`Função e duas variáveis:`_**
 
 ![image](https://user-images.githubusercontent.com/41032795/134772643-eeaa26fb-1f81-482f-9c43-ecc955a54d84.png)
 
 Domínio: Observe que, dentro da raiz, o número terá que ser positivo uma vez que não existe raiz quadrada de número negativo no campo dos números reais. Existe, portanto, uma restrição, ou seja, o valor de y não pode ser menor do que x2. Suponha que se atribua o valor 1 para y e 2 para x:
 
-`w = √1-(2)² = √-3`
+_`w = √1-(2)² = √-3`_
 
 > Não existe raiz quadrada de número negativo; portanto, esses valores não fazem parte do domínio da função. Podemos escrever que o domínio de w é dado por:
 
-Domínio: `y ≥ 0`
+Domínio: _`y ≥ 0`_
 
-`E com relação à imagem?`
+_`E com relação à imagem?`_
 
 A imagem, calculada pela função, será qualquer número real positivo e poderá também ser
 o número zero.
 
-Imagem = `[0,∞)`
+Imagem = _`[0,∞)`_
 
 
-### **`Função de três variáveis:`**
+### **_`Função de três variáveis:`_**
 
 ![image](https://cdn.discordapp.com/attachments/891308836810539071/891308877268799548/Screenshot_1.png)
 
