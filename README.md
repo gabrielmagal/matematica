@@ -70,7 +70,6 @@ Imagem = Qualquer número real
 > **_Uma superfície de nível (ou conjunto de nível) de uma função de três variáveis (x,y,z) é uma superfície da forma f(x,y,z)=c, em que c é uma constante. A função f pode ser representada pela família de superfícies de nível obtida permitindo que c varie._**
 
 
-
 ## **_`Exercicíos - Funções de várias variáveis:`_**
 <!--ts-->
    * 1 - Qual é o valor da função g(x,y,z) = x² + 3y - √z no ponto P(2,3,1)?
@@ -110,4 +109,32 @@ Imagem = Qualquer número real
       *  E -> f(0,1,2) = 7
 <!--te-->
 
+## **_`Respostas - Exercicíos - Funções de várias variáveis:`_**
 
+Aqui estão as resoluções dos exercicíos para conferencia das respostas:
+
+```diff
+
+1 ->  g(x,y,z) = x² + 3y - √z. P(2,3,1).
+               = 2² + 3*3 - √1
+               = 4 + 9 - 1
+               = 12
+               
+             
+             
+2 ->  w(x,y,z) = 2x-y³+(z/4). w(0,0,4)
+               = (2*0)-(0³)+(4/4)
+               = 1
+               
+               
+3 ->  C = 40d + 0,15k, d = 4 e k = 300
+      C = 40*4 + 0,15*300
+      C = 160 + 45
+      C = 205
+          
+          
+* 4 - f(x,y,z) = √x² + 2y - 3z. A(0,1,2):
+               = √0² + (2*1) - (3*2)
+               = 0 + 2 - 6
+               = -4
+```
