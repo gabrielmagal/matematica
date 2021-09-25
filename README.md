@@ -53,3 +53,6 @@ A imagem, calculada pela função, será qualquer número real positivo e poder�
 o número zero.
 
 Imagem = ```[0,∞)```
+
+Função de três variáveis:
+![Screenshot](https://imgur.com/NzfN5om)
