@@ -1,8 +1,8 @@
-# Utilização de curvas de nível
+## Utilização de curvas de nível
 
 Utilizadas para medir proporcionalmente 1 ou mais grandezas
 
-# **_Funções de variáveis_**
+## **_Funções de variáveis_**
 
 O objetivo dessa unidade será assimilar o conceito matemático de função de duas ou mais
 variáveis. Ao se estudar um fenômeno do mundo real, deparamos, normalmente, com situações
@@ -30,10 +30,10 @@ _`formula:`_
 
 f(x,y,z) -> f(3,0,4) -> √(3)²+(0)²+(4)² = √25 = 5
 
-# **_Domínio e Imagem_**
+## **_Domínio e Imagem_**
 > Ao definir função de mais de uma variável, excluem-se as entradas que levem a números complexos ou à divisão por zero. Considera-se o domínio das funções os maiores conjuntos, para os quais as regras de definição geram números reais, exceto quando esse domínio seja especificado de forma explícita. A imagem é o conjunto de valores de saída para a variável dependente.
 
-### **_`Função e duas variáveis:`_**
+#### **_`Função e duas variáveis:`_**
 
 ![image](https://user-images.githubusercontent.com/41032795/134772643-eeaa26fb-1f81-482f-9c43-ecc955a54d84.png)
 
@@ -53,7 +53,7 @@ o número zero.
 Imagem = _`[0,∞)`_
 
 
-### **_`Função de três variáveis:`_**
+#### **_`Função de três variáveis:`_**
 
 ![image](https://cdn.discordapp.com/attachments/891308836810539071/891308877268799548/Screenshot_1.png)
 
