@@ -33,3 +33,16 @@ Ao definir função de mais de uma variável, excluem-se as entradas que levem a
 complexos ou à divisão por zero. Considera-se o domínio das funções os maiores conjuntos, para
 os quais as regras de definição geram números reais, exceto quando esse domínio seja especificado
 de forma explícita. A imagem é o conjunto de valores de saída para a variável dependente.
+
+```Função e duas variáveis:```
+
+```w = √y-x²```
+
+Domínio: Observe que, dentro da raiz, o número terá que ser positivo uma vez que não existe raiz quadrada de número negativo no campo dos números reais. Existe, portanto, uma restrição, ou seja, o valor de y não pode ser menor do que x2. Suponha que se atribua o valor 1 para y e 2 para x:
+
+```w = √1-(2)² = √-3```
+
+Não existe raiz quadrada de número negativo; portanto, esses valores não fazem parte do
+domínio da função. Podemos escrever que o domínio de w é dado por:
+
+Domínio: ```y ≥ 0```
