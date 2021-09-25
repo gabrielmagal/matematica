@@ -39,6 +39,7 @@ os quais as regras de definição geram números reais, exceto quando esse domí
 de forma explícita. A imagem é o conjunto de valores de saída para a variável dependente.
 
 ```Função e duas variáveis:```
+``` diff 
 
 ![image](https://user-images.githubusercontent.com/41032795/134772643-eeaa26fb-1f81-482f-9c43-ecc955a54d84.png)
 
@@ -57,6 +58,8 @@ A imagem, calculada pela função, será qualquer número real positivo e poder�
 o número zero.
 
 Imagem = ```[0,∞)```
+
+```
 
 Função de três variáveis:
 
