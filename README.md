@@ -56,7 +56,7 @@ Domínio: ```y ≥ 0```
 A imagem, calculada pela função, será qualquer número real positivo e poderá também ser
 o número zero.
 
-# h1 Imagem = ```[0,∞)```
+#h1 Imagem = [0,∞)
 
 
 ```Função de três variáveis:```
