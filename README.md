@@ -33,9 +33,9 @@ _`formula:`_
 f(x,y,z) -> f(3,0,4) -> √(3)²+(0)²+(4)² = √25 = 5
 
 ### **_`Domínio e Imagem`_**
-> _Ao definir função de mais de uma variável, excluem-se as entradas que levem a números complexos ou à divisão por zero. Considera-se o domínio das funções os maiores conjuntos, para os quais as regras de definição geram números reais, exceto quando esse domínio seja especificado de forma explícita. 
+> _Ao definir função de mais de uma variável, excluem-se as entradas que levem a números complexos ou à divisão por zero. Considera-se o domínio das funções os maiores conjuntos, para os quais as regras de definição geram números reais, exceto quando esse domínio seja especificado de forma explícita._ 
 > 
-> A imagem é o conjunto de valores de saída para a variável dependente._
+> _A imagem é o conjunto de valores de saída para a variável dependente._
 
 #### **_`Função e duas variáveis:`_**
 
