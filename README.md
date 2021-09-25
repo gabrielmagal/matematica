@@ -23,7 +23,7 @@ conjunto D é o domínio de f, e a imagem é o conjunto dos valores de w assumid
 
 ```Exemplo3:```
 
-Calcular o valor da função f no ponto (3,0,4). ```form: √x²+y²+z²```
+Calcular o valor da função f no ponto (3,0,4). ```formula: ![image](https://user-images.githubusercontent.com/41032795/134772569-7b1150b2-b605-4fef-9900-6391d85985b0.png)```
 
 f(x,y,z) -> f(3,0,4) -> √(3)²+(0)²+(4)² = √25 = 5
 
@@ -56,4 +56,4 @@ Imagem = ```[0,∞)```
 
 Função de três variáveis:
 
-![Screenshot](https://cdn.discordapp.com/attachments/891308836810539071/891308877268799548/Screenshot_1.png)
+![image](https://cdn.discordapp.com/attachments/891308836810539071/891308877268799548/Screenshot_1.png)
