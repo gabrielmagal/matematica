@@ -2,7 +2,7 @@
 
 Utilizadas para medir proporcionalmente 1 ou mais grandezas
 
-# **Funções de variáveis**
+# **_Funções de variáveis_**
 
 O objetivo dessa unidade será assimilar o conceito matemático de função de duas ou mais
 variáveis. Ao se estudar um fenômeno do mundo real, deparamos, normalmente, com situações
