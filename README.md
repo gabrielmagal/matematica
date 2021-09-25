@@ -45,7 +45,7 @@ de forma explícita. A imagem é o conjunto de valores de saída para a variáve
 ```
 Domínio: Observe que, dentro da raiz, o número terá que ser positivo uma vez que não existe raiz quadrada de número negativo no campo dos números reais. Existe, portanto, uma restrição, ou seja, o valor de y não pode ser menor do que x2. Suponha que se atribua o valor 1 para y e 2 para x:
 
-```diff @@w = √1-(2)² = √-3@@ ```
+diff @@w = √1-(2)² = √-3@@
 
 Não existe raiz quadrada de número negativo; portanto, esses valores não fazem parte do
 domínio da função. Podemos escrever que o domínio de w é dado por:
