@@ -46,3 +46,10 @@ Não existe raiz quadrada de número negativo; portanto, esses valores não faze
 domínio da função. Podemos escrever que o domínio de w é dado por:
 
 Domínio: ```y ≥ 0```
+
+```E com relação à imagem?```
+
+A imagem, calculada pela função, será qualquer número real positivo e poderá também ser
+o número zero.
+
+Imagem = ```[0,∞)```
