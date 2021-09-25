@@ -12,8 +12,7 @@ Muitas funções dependem de mais de uma variável independente.
 
 `Exemplo:`
 
-O volume de um cilindro circular reto depende do seu raio e de sua altura.
-A temperatura de um ponto da superfície da terra depende da sua latitude e da sua longitude.
+> O volume de um cilindro circular reto depende do seu raio e de sua altura. A temperatura de um ponto da superfície da terra depende da sua latitude e da sua longitude.
 
 `Exemplo2:`
 
