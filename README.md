@@ -42,10 +42,9 @@ de forma explícita. A imagem é o conjunto de valores de saída para a variáve
 
 ![image](https://user-images.githubusercontent.com/41032795/134772643-eeaa26fb-1f81-482f-9c43-ecc955a54d84.png)
 
-```
 Domínio: Observe que, dentro da raiz, o número terá que ser positivo uma vez que não existe raiz quadrada de número negativo no campo dos números reais. Existe, portanto, uma restrição, ou seja, o valor de y não pode ser menor do que x2. Suponha que se atribua o valor 1 para y e 2 para x:
 
-diff @@w = √1-(2)² = √-3@@
+```w = √1-(2)² = √-3```
 
 Não existe raiz quadrada de número negativo; portanto, esses valores não fazem parte do
 domínio da função. Podemos escrever que o domínio de w é dado por:
@@ -57,11 +56,10 @@ Domínio: ```y ≥ 0```
 A imagem, calculada pela função, será qualquer número real positivo e poderá também ser
 o número zero.
 
-Imagem = ```[0,∞)```
+# h1 Imagem = ```[0,∞)```
 
-```
 
-Função de três variáveis:
+```Função de três variáveis:```
 
 ![image](https://cdn.discordapp.com/attachments/891308836810539071/891308877268799548/Screenshot_1.png)
 
