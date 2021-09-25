@@ -119,7 +119,6 @@ Aqui estão as resoluções dos exercicíos para conferencia das respostas:
                = 2² + 3*3 - √1
                = 4 + 9 - 1
                = 12
-               
              
              
 2 ->  w(x,y,z) = 2x-y³+(z/4). w(0,0,4)
@@ -133,8 +132,8 @@ Aqui estão as resoluções dos exercicíos para conferencia das respostas:
       C = 205
           
           
-* 4 - f(x,y,z) = √x² + 2y - 3z. A(0,1,2):
-               = √0² + (2*1) - (3*2)
-               = 0 + 2 - 6
-               = -4
+4 - f(x,y,z) = √x² + 2y - 3z. A(0,1,2):
+             = √0² + (2*1) - (3*2)
+             = 0 + 2 - 6
+             = -4
 ```
