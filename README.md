@@ -1,4 +1,4 @@
-<h1 align="center">Funções de várias variáveis</h1>
+<h1 align="center">✅ Funções de várias variáveis</h1>
 
 ### **_`Utilização de curvas de nível`_**
 
