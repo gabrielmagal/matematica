@@ -108,14 +108,14 @@ Muitas funções dependem de mais de uma variável independente.
     * Aqui estão as resoluções dos exercicíos para conferencia das respostas:
 
     * 1 ->  g(x,y,z) = x² + 3y - √z. P(2,3,1).
-                   = 2² + 3*3 - √1
-                   = 4 + 9 - 1
-                   = 12
+                  * = 2² + 3*3 - √1
+                  * = 4 + 9 - 1
+                  * = 12
              
              
     * 2 ->  w(x,y,z) = 2x-y³+(z/4). w(0,0,4)
-                   = (2*0)-(0³)+(4/4)
-                   = 1
+                  * = (2*0)-(0³)+(4/4)
+                  * = 1
                
                
     * 3 ->  C = 40d + 0,15k, d = 4 e k = 300
