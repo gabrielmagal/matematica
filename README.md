@@ -135,5 +135,10 @@ Muitas funções dependem de mais de uma variável independente.
 
 # 📌 **_`Derivadas Parciais`_**
 <!--ts-->
+   * ### **_`Funções de variáveis`_**
+     * O cálculo de várias variáveis é o cálculo de uma variável aplicado a várias variáveis, uma de cada vez. Quando se fixa todas as variáveis independentes de uma função, exceto uma, que usaremos para ser derivada, estaremos obtendo uma derivada parcial. Calcula-se derivadas parciais, aplicando as regras utilizadas para derivar funções de uma única variável.
+     
+   > Define-se a derivada parcial de f em relação a x no ponto (x0,y0) como a derivada de f(x0 ,y0) em relação a x no ponto x= x0. Para diferenciar as derivadas parciais das derivadas ordinárias, usaremos o símbolo ∂ no lugar da letra d que é utilizada para o cálculo das derivadas ordinárias
+
 
 <!--te-->
