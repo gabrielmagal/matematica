@@ -1,5 +1,7 @@
 # 📌 **_`Funções de várias variáveis`_**
 
+<!--ts-->
+
 ### **_`Utilização de curvas de nível`_**
 
 Utilizadas para medir proporcionalmente 1 ou mais grandezas
@@ -137,3 +139,4 @@ Aqui estão as resoluções dos exercicíos para conferencia das respostas:
               = 0 + 2 - 6
               = -4
 ```
+<!--te-->
