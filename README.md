@@ -24,33 +24,32 @@ Muitas funções dependem de mais de uma variável independente.
 
 * _`formula:`_
 
-![image](https://user-images.githubusercontent.com/41032795/134772569-7b1150b2-b605-4fef-9900-6391d85985b0.png)
+  * ![image](https://user-images.githubusercontent.com/41032795/134772569-7b1150b2-b605-4fef-9900-6391d85985b0.png)
 
   * f(x,y,z) -> f(3,0,4) -> √(3)²+(0)²+(4)² = √25 = 5
 
 * ### **_`Domínio e Imagem`_**
   * > _Ao definir função de mais de uma variável, excluem-se as entradas que levem a números complexos ou à divisão por zero. Considera-se o domínio das funções os maiores conjuntos, para os quais as regras de definição geram números reais, exceto quando esse domínio seja especificado de forma explícita._ 
-  * > 
+
   * > _A imagem é o conjunto de valores de saída para a variável dependente._
 
-#### **_`Função e duas variáveis:`_**
+* #### **_`Função e duas variáveis:`_**
 
-![image](https://user-images.githubusercontent.com/41032795/134772643-eeaa26fb-1f81-482f-9c43-ecc955a54d84.png)
+  * ![image](https://user-images.githubusercontent.com/41032795/134772643-eeaa26fb-1f81-482f-9c43-ecc955a54d84.png)
 
-Domínio: Observe que, dentro da raiz, o número terá que ser positivo uma vez que não existe raiz quadrada de número negativo no campo dos números reais. Existe, portanto, uma restrição, ou seja, o valor de y não pode ser menor do que x2. Suponha que se atribua o valor 1 para y e 2 para x:
+  * Domínio: Observe que, dentro da raiz, o número terá que ser positivo uma vez que não existe raiz quadrada de número negativo no campo dos números reais. Existe, portanto, uma restrição, ou seja, o valor de y não pode ser menor do que x2. Suponha que se atribua o valor 1 para y e 2 para x:
 
-_`w = √1-(2)² = √-3`_
+* _`w = √1-(2)² = √-3`_
 
-> **_Não existe raiz quadrada de número negativo; portanto, esses valores não fazem parte do domínio da função. Podemos escrever que o domínio de w é dado por:_**
+  * > **_Não existe raiz quadrada de número negativo; portanto, esses valores não fazem parte do domínio da função. Podemos escrever que o domínio de w é dado por:_**
 
-Domínio: _`y ≥ 0`_
+  * Domínio: _`y ≥ 0`_
 
-_`E com relação à imagem?`_
+* _`E com relação à imagem?`_
 
-A imagem, calculada pela função, será qualquer número real positivo e poderá também ser
-o número zero.
+  * A imagem, calculada pela função, será qualquer número real positivo e poderá também ser o número zero.
 
-Imagem = _`[0,∞)`_
+  * Imagem = _`[0,∞)`_
 
 
 #### **_`Função de três variáveis:`_**
