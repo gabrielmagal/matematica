@@ -1,6 +1,5 @@
 # 📌 **_`Funçõees de várias variáveis`_**
 
-<!--ts-->
 
   * ### **_`Utilização de curvas de nível`_**
     * Utilizadas para medir proporcionalmente 1 ou mais grandezas
@@ -64,7 +63,7 @@ Muitas funções dependem de mais de uma variável independente.
 
     * > **_Uma superfície de nível (ou conjunto de nível) de uma função de três variáveis (x,y,z) é uma superfície da forma f(x,y,z)=c, em que c é uma constante. A função f pode ser representada pela família de superfícies de nível obtida permitindo que c varie._**
 
-<!--te-->
+
   * ## 💼 **_`Exercicíos - Funções de várias variáveis:`_**
 <!--ts-->
      * 1 - Qual é o valor da função g(x,y,z) = x² + 3y - √z no ponto P(2,3,1)?
