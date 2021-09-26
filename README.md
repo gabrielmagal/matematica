@@ -1,4 +1,4 @@
-# 📌 **_`Funções de várias variáveis`_**
+# 📌 **_`Funçõees de várias variáveis`_**
 
 <!--ts-->
 
