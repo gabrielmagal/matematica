@@ -3,8 +3,7 @@
 <!--ts-->
 
 * ### **_`Utilização de curvas de nível`_**
-
-* Utilizadas para medir proporcionalmente 1 ou mais grandezas
+  * Utilizadas para medir proporcionalmente 1 ou mais grandezas
 
 ### **_`Funções de variáveis`_**
 
