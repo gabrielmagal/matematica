@@ -107,7 +107,7 @@ Muitas funções dependem de mais de uma variável independente.
 
     * Aqui estão as resoluções dos exercicíos para conferencia das respostas:
 
-   * 1 ->  g(x,y,z) = x² + 3y - √z. P(2,3,1).
+    * 1 ->  g(x,y,z) = x² + 3y - √z. P(2,3,1).
                    = 2² + 3*3 - √1
                    = 4 + 9 - 1
                    = 12
