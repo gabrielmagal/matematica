@@ -65,7 +65,7 @@ Muitas funções dependem de mais de uma variável independente.
 
 
   * ## 💼 **_`Exercicíos - Funções de várias variáveis:`_**
-<!--ts-->
+
      * 1 - Qual é o valor da função g(x,y,z) = x² + 3y - √z no ponto P(2,3,1)?
         *  A -> 10 
         *  B -> 12
@@ -103,7 +103,6 @@ Muitas funções dependem de mais de uma variável independente.
         *  C -> f(0,1,2) = -4
         *  D -> f(0,1,2) = 24
         *  E -> f(0,1,2) = 7
-<!--te-->
 
   * ## ✅ **_`Respostas - Exercicíos - Funções de várias variáveis:`_**
 
