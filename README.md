@@ -132,3 +132,8 @@ Muitas funções dependem de mais de uma variável independente.
         * = -4
 
 <!--te-->
+
+# 📌 **_`Derivadas Parciais`_**
+<!--ts-->
+
+<!--te-->
