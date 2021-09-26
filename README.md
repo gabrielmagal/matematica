@@ -120,7 +120,7 @@ Muitas funções dependem de mais de uma variável independente.
       * = 1
                
                
-    * _**3 ->  C = 40d + 0,15k, d = 4 e k = 300 = **_
+    * _**3 ->  C = 40d + 0,15k, d = 4 e k = 300 =**_
       * = (40*4) + (0,15*300)
       * = 160 + 45
       * = 205
