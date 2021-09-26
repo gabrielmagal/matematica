@@ -31,36 +31,36 @@ Muitas funções dependem de mais de uma variável independente.
 
     * > _A imagem é o conjunto de valores de saída para a variável dependente._
 
-  * #### **_`Função e duas variáveis:`_**
+    * #### **_`Função e duas variáveis:`_**
 
-    * ![image](https://user-images.githubusercontent.com/41032795/134772643-eeaa26fb-1f81-482f-9c43-ecc955a54d84.png)
+      * ![image](https://user-images.githubusercontent.com/41032795/134772643-eeaa26fb-1f81-482f-9c43-ecc955a54d84.png)
 
-    * Domínio: Observe que, dentro da raiz, o número terá que ser positivo uma vez que não existe raiz quadrada de número negativo no campo dos números reais. Existe, portanto, uma restrição, ou seja, o valor de y não pode ser menor do que x2. Suponha que se atribua o valor 1 para y e 2 para x:
+      * Domínio: Observe que, dentro da raiz, o número terá que ser positivo uma vez que não existe raiz quadrada de número negativo no campo dos números reais. Existe, portanto, uma restrição, ou seja, o valor de y não pode ser menor do que x2. Suponha que se atribua o valor 1 para y e 2 para x:
 
-  * _`w = √1-(2)² = √-3`_
+      * _`w = √1-(2)² = √-3`_
 
-    * > **_Não existe raiz quadrada de número negativo; portanto, esses valores não fazem parte do domínio da função. Podemos escrever que o domínio de w é dado por:_**
+      * > **_Não existe raiz quadrada de número negativo; portanto, esses valores não fazem parte do domínio da função. Podemos escrever que o domínio de w é dado por:_**
 
-    * Domínio: _`y ≥ 0`_
+      * Domínio: _`y ≥ 0`_
 
-  * _`E com relação à imagem?`_
+    * _`E com relação à imagem?`_
 
-    * A imagem, calculada pela função, será qualquer número real positivo e poderá também ser o número zero.
+      * A imagem, calculada pela função, será qualquer número real positivo e poderá também ser o número zero.
 
-    * Imagem = _`[0,∞)`_
+      * Imagem = _`[0,∞)`_
 
 
-  * #### **_`Função de três variáveis:`_**
+    * #### **_`Função de três variáveis:`_**
 
-    * ![image](https://cdn.discordapp.com/attachments/891308836810539071/891308877268799548/Screenshot_1.png)
+      * ![image](https://cdn.discordapp.com/attachments/891308836810539071/891308877268799548/Screenshot_1.png)
 
-    * A restrição que se tem agora é que x, y e z têm de ser diferentes de zero.
+      * A restrição que se tem agora é que x, y e z têm de ser diferentes de zero.
 
-    * Domínio = (x,y,z)≠0
+      * Domínio = (x,y,z)≠0
 
-    * Imagem = Qualquer número real
+      * Imagem = Qualquer número real
 
-    * > **_Uma superfície de nível (ou conjunto de nível) de uma função de três variáveis (x,y,z) é uma superfície da forma f(x,y,z)=c, em que c é uma constante. A função f pode ser representada pela família de superfícies de nível obtida permitindo que c varie._**
+      * > **_Uma superfície de nível (ou conjunto de nível) de uma função de três variáveis (x,y,z) é uma superfície da forma f(x,y,z)=c, em que c é uma constante. A função f pode ser representada pela família de superfícies de nível obtida permitindo que c varie._**
 
   * ## 💼 **_`Exercicíos - Funções de várias variáveis:`_**
 
