@@ -64,6 +64,7 @@ Muitas funções dependem de mais de uma variável independente.
 
 <!--te-->
 
+<!--ts-->
 
   * ## 💼 **_`Exercicíos - Funções de várias variáveis:`_**
 
@@ -81,6 +82,7 @@ Muitas funções dependem de mais de uma variável independente.
         *  C -> 2
         *  D -> 3
         *  E -> 4
+
 
     * 3 - A tabela abaixo é a representação numérica da função C = 40d + 0,15k, sendo que C é o custo do aluguel de um carro, d é o número de dias e k o número de quilômetros rodados. Analise a tabela e assinale a alternativa que contenha o custo de um aluguel por 4 dias para quem tenha rodado 300 quilômetros:
 
@@ -108,6 +110,8 @@ Muitas funções dependem de mais de uma variável independente.
   * ## ✅ **_`Respostas - Exercicíos - Funções de várias variáveis:`_**
 
     * Aqui estão as resoluções dos exercicíos para conferencia das respostas:
+
+<!--te-->
 
 ```diff
 
