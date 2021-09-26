@@ -62,10 +62,6 @@ Muitas funções dependem de mais de uma variável independente.
 
     * > **_Uma superfície de nível (ou conjunto de nível) de uma função de três variáveis (x,y,z) é uma superfície da forma f(x,y,z)=c, em que c é uma constante. A função f pode ser representada pela família de superfícies de nível obtida permitindo que c varie._**
 
-<!--te-->
-
-<!--ts-->
-
   * ## 💼 **_`Exercicíos - Funções de várias variáveis:`_**
 
      * 1 - Qual é o valor da função g(x,y,z) = x² + 3y - √z no ponto P(2,3,1)?
@@ -111,7 +107,6 @@ Muitas funções dependem de mais de uma variável independente.
 
     * Aqui estão as resoluções dos exercicíos para conferencia das respostas:
 
-<!--te-->
 
 ```diff
 
@@ -137,3 +132,5 @@ Muitas funções dependem de mais de uma variável independente.
                   = 0 + 2 - 6
                   = -4
 ```
+
+<!--te-->
