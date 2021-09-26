@@ -1,4 +1,4 @@
-<p align="center">✅🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
+<p align="center">✅🚀 **_Funções de várias variáveis_**</p>
 
 # **_Funções de várias variáveis_**
 
