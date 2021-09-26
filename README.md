@@ -7,7 +7,7 @@
 
 * ### **_`Funções de variáveis`_**
 
- * O objetivo dessa unidade será assimilar o conceito matemático de função de duas ou mais variáveis. Ao se estudar um fenômeno do mundo real, deparamos, normalmente, com situações em que uma quantidade depende de duas ou mais variáveis independentes. É preciso, então, ampliar a ideia básica do cálculo de funções de uma variável para funções de várias variáveis.
+  * O objetivo dessa unidade será assimilar o conceito matemático de função de duas ou mais variáveis. Ao se estudar um fenômeno do mundo real, deparamos, normalmente, com situações em que uma quantidade depende de duas ou mais variáveis independentes. É preciso, então, ampliar a ideia básica do cálculo de funções de uma variável para funções de várias variáveis.
 Muitas funções dependem de mais de uma variável independente.
 
 _`Exemplo:`_
