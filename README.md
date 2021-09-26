@@ -52,20 +52,20 @@ Muitas funções dependem de mais de uma variável independente.
   * Imagem = _`[0,∞)`_
 
 
-#### **_`Função de três variáveis:`_**
+* #### **_`Função de três variáveis:`_**
 
-![image](https://cdn.discordapp.com/attachments/891308836810539071/891308877268799548/Screenshot_1.png)
+  * ![image](https://cdn.discordapp.com/attachments/891308836810539071/891308877268799548/Screenshot_1.png)
 
-A restrição que se tem agora é que x, y e z têm de ser diferentes de zero.
+  * A restrição que se tem agora é que x, y e z têm de ser diferentes de zero.
 
-Domínio = (x,y,z)≠0
+  * Domínio = (x,y,z)≠0
 
-Imagem = Qualquer número real
+  * Imagem = Qualquer número real
 
-> **_Uma superfície de nível (ou conjunto de nível) de uma função de três variáveis (x,y,z) é uma superfície da forma f(x,y,z)=c, em que c é uma constante. A função f pode ser representada pela família de superfícies de nível obtida permitindo que c varie._**
+  * > **_Uma superfície de nível (ou conjunto de nível) de uma função de três variáveis (x,y,z) é uma superfície da forma f(x,y,z)=c, em que c é uma constante. A função f pode ser representada pela família de superfícies de nível obtida permitindo que c varie._**
 
 
-## 💼 **_`Exercicíos - Funções de várias variáveis:`_**
+* ## 💼 **_`Exercicíos - Funções de várias variáveis:`_**
 <!--ts-->
    * 1 - Qual é o valor da função g(x,y,z) = x² + 3y - √z no ponto P(2,3,1)?
       *  A -> 10 
@@ -104,9 +104,9 @@ Imagem = Qualquer número real
       *  E -> f(0,1,2) = 7
 <!--te-->
 
-## ✅ **_`Respostas - Exercicíos - Funções de várias variáveis:`_**
+* ## ✅ **_`Respostas - Exercicíos - Funções de várias variáveis:`_**
 
-Aqui estão as resoluções dos exercicíos para conferencia das respostas:
+  * Aqui estão as resoluções dos exercicíos para conferencia das respostas:
 
 ```diff
 
