@@ -107,26 +107,26 @@ Muitas funções dependem de mais de uma variável independente.
 
     * Aqui estão as resoluções dos exercicíos para conferencia das respostas:
 
-    * **_1 ->  g(x,y,z) =_**
+    * _**1 ->  g(x,y,z) =**_
       * x² + 3y - √z. P(2,3,1).
       * = 2² + (3*3) - √1
       * = 4 + 9 - 1
       * = 12
              
              
-    * **_2 ->  w(x,y,z) =_**
+    * _**2 ->  w(x,y,z) =**_
       * 2x-y³+(z/4). w(0,0,4)
       * = (2*0)-(0³)+(4/4)
       * = 1
                
                
-    * **_3 ->  C = 40d + 0,15k, d = 4 e k = 300 = _**
+    * _**3 ->  C = 40d + 0,15k, d = 4 e k = 300 = **_
       * = (40*4) + (0,15*300)
       * = 160 + 45
       * = 205
           
           
-    * **_4 -> f(x,y,z) = √x² + 2y - 3z. A(0,1,2) =_**
+    * _**4 -> f(x,y,z) = √x² + 2y - 3z. A(0,1,2) =**_
       * = √0² + (2*1) - (3*2)
       * = 0 + 2 - 6
       * = -4
