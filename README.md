@@ -1,4 +1,4 @@
-<h1 align="center">✅ Funções de várias variáveis</h1>
+# 📌 **_`Funções de várias variáveis`_**
 
 ### **_`Utilização de curvas de nível`_**
 
@@ -70,7 +70,7 @@ Imagem = Qualquer número real
 > **_Uma superfície de nível (ou conjunto de nível) de uma função de três variáveis (x,y,z) é uma superfície da forma f(x,y,z)=c, em que c é uma constante. A função f pode ser representada pela família de superfícies de nível obtida permitindo que c varie._**
 
 
-## **_`Exercicíos - Funções de várias variáveis:`_**
+## 💼 **_`Exercicíos - Funções de várias variáveis:`_**
 <!--ts-->
    * 1 - Qual é o valor da função g(x,y,z) = x² + 3y - √z no ponto P(2,3,1)?
       *  A -> 10 
@@ -109,7 +109,7 @@ Imagem = Qualquer número real
       *  E -> f(0,1,2) = 7
 <!--te-->
 
-## **_`Respostas - Exercicíos - Funções de várias variáveis:`_**
+## ✅ **_`Respostas - Exercicíos - Funções de várias variáveis:`_**
 
 Aqui estão as resoluções dos exercicíos para conferencia das respostas:
 
